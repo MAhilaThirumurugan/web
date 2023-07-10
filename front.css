@@ -1,0 +1,90 @@
+.nav{
+    position: absolute;
+    right:50px;
+    font-size: 150%;
+    padding:30px;
+    background-color: antiquewhite;
+  }
+ h1{
+    text-align: center;
+    PADDING:5%;
+    font-family: cursive;
+    font-size: 200%;
+    color: blueviolet;
+
+ } 
+ h2{
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+   
+ }
+ h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    vertical-align: baseline;
+ }
+ button{
+    font-family: cursive;
+    font-size: 150%;
+    background-color:yellowgreen;
+    position: absolute;
+    right:46%;
+    padding: 1px;
+}
+P{
+    font-family: cursive;
+    font-size: 150%;
+    PADDING: 2PX;
+    color:black;
+    
+}
+.container{
+   font-family: monospace;
+   font-size: 20px;
+   text-align: center;
+   padding: 30px;
+   color: palevioletred;
+}
+div.gallery{
+   float:left;
+   width:300px;
+   border: 1px;
+   background-color: beige;
+   padding:25px;
+   align-items: center;
+
+}
+div.gallery.img{
+   width:10%
+  
+}
+div.image{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 130%;
+}
+h5{
+   font-family: Arial, Helvetica, sans-serif;
+   color: deeppink;
+   font-size: 40px;
+}
+table, th, td {
+   
+     border:5px solid blueviolet;
+     padding:20px;
+     color:palevioletred ;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size:50px;
+ 
+}
+a{
+   font-family: cursive;
+   font-size: 30px;
+}
+h6{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 300%;
+   color: blanchedalmond;
+   padding-bottom: 1%;
+}
