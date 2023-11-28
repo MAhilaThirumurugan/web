@@ -1,0 +1,52 @@
+.navtop{
+    position: absolute;
+    right:50px;
+    font-size: 100%;
+    padding:20px;
+}
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    color:white;
+    text-align: center;padding:20px;
+}
+
+li{
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;padding:20px;
+    color:goldenrod;
+}
+a{
+    position:absolute;
+    right:47%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: blueviolet;
+}
+P{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+h4{
+    color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+}
+table{
+    color:grey;
+    font-family: cursive;
+    font-size: 30px;
+    column-width: 1500px;
+    
+    
+}
+.row{
+    
+        float: left;
+        padding: 5px;
+       
+}
+  
+    
